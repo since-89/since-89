@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @since-89
-- 👀 I’m interested in Operations research, Statistical Analysis, and Algorithms
+- 👋 Hi, I’m Dr.Pravin Suryawanshi
+- 👀 I’m interested in Operations research, Algorithms, and ML&AI.
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on retail analytics, logistics and supply chain
+- 💞️ I’m looking to collaborate on retail analytics, decomposition algorithms, logistics and supply chain.
 - 📫 How to reach me work.pravinsuryawanshi@gmail.com
 
 <!---
