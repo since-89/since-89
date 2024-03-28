@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **MILP and Decomposition**
 
-- 🤝 I’m looking for help with **Data Science and Machine learning**
+- 🤝 I’m looking to help with **Data Science and Machine learning**
 
 - 💬 Ask me about **Operations research, Algorithms**
 
 - 📫 How to reach me **work.pravinsuryawanshi@gmail.com**
 
-- ⚡ Fun fact **Hello World is Trap!**
+- ⚡ Fun fact **Hello World is a Trap!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
