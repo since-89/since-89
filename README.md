@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Retail Analytics**
 
-- 🌱 I’m currently learning **Python, FastAPI, DJango**
+- 🌱 I’m currently learning **Python, FastAPI, Flask, and Docker**
 
 - 👯 I’m looking to collaborate on **MILP and Decomposition**
 
