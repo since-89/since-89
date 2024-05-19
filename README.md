@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr. Pravin Suryawanshi (PhD)</h1>
+<h1 align="center">Hi 👋, I'm Pravin Suryawanshi (PhD)</h1>
 <h3 align="center">I am an OR/MS practitioner. I am passionate to solve real-world business problems within retail, supply chain, and transportation domain.</h3>
 
 
