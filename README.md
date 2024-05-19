@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **work.pravinsuryawanshi@gmail.com**
 
-- ⚡ Fun fact **Hello World is a Trap!**
+- ⚡ Fun fact **Hello world is a trap!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
